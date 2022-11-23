@@ -1,0 +1,11 @@
+{
+    "description": "Subdomain is used as a portfolio and personal projects",
+    "repo": "https://github.com/thewarmestcolor/thewarmestcolor.github.io",
+    "owner": {
+        "username": "thewarmestcolor",
+        "discord": "Serious Freak#0993",
+    },
+    "record": {
+        "CNAME": "thewarmestcolor.github.io"
+    }
+}
